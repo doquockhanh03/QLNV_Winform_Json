@@ -1,0 +1,14 @@
+D:\C#_Tutorial\TH .NET\BT Lab7\Luyentap_05\Luyentap_05\bin\Debug\Luyentap_05.exe.config
+D:\C#_Tutorial\TH .NET\BT Lab7\Luyentap_05\Luyentap_05\bin\Debug\Luyentap_05.exe
+D:\C#_Tutorial\TH .NET\BT Lab7\Luyentap_05\Luyentap_05\bin\Debug\Luyentap_05.pdb
+D:\C#_Tutorial\TH .NET\BT Lab7\Luyentap_05\Luyentap_05\bin\Debug\Newtonsoft.Json.dll
+D:\C#_Tutorial\TH .NET\BT Lab7\Luyentap_05\Luyentap_05\bin\Debug\Newtonsoft.Json.xml
+D:\C#_Tutorial\TH .NET\BT Lab7\Luyentap_05\Luyentap_05\obj\Debug\Luyentap_05.csproj.AssemblyReference.cache
+D:\C#_Tutorial\TH .NET\BT Lab7\Luyentap_05\Luyentap_05\obj\Debug\Luyentap_05.Form1.resources
+D:\C#_Tutorial\TH .NET\BT Lab7\Luyentap_05\Luyentap_05\obj\Debug\Luyentap_05.Form2.resources
+D:\C#_Tutorial\TH .NET\BT Lab7\Luyentap_05\Luyentap_05\obj\Debug\Luyentap_05.Properties.Resources.resources
+D:\C#_Tutorial\TH .NET\BT Lab7\Luyentap_05\Luyentap_05\obj\Debug\Luyentap_05.csproj.GenerateResource.cache
+D:\C#_Tutorial\TH .NET\BT Lab7\Luyentap_05\Luyentap_05\obj\Debug\Luyentap_05.csproj.CoreCompileInputs.cache
+D:\C#_Tutorial\TH .NET\BT Lab7\Luyentap_05\Luyentap_05\obj\Debug\Luyentap.C024CEE3.Up2Date
+D:\C#_Tutorial\TH .NET\BT Lab7\Luyentap_05\Luyentap_05\obj\Debug\Luyentap_05.exe
+D:\C#_Tutorial\TH .NET\BT Lab7\Luyentap_05\Luyentap_05\obj\Debug\Luyentap_05.pdb
